@@ -8,6 +8,7 @@
 
 ##### Библиотеки:
 * Swiper
+* Fslightbox
 
 ##### Обзор:  
 ![screenshots](./ICON/FUNIRO_FON.png)
